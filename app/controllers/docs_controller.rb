@@ -26,6 +26,11 @@ class DocsController < ApplicationController
     end
 
     def update
+        if @doc.update(doc_params)
+            redirect_to @doc
+        else
+            render 'edit'
+        end
     end
 
     def destroy
