@@ -1,5 +1,11 @@
 # README
 
+Email: admin@escritoire.com
+Password: 111222333
+
+Email 2: admin2@escritoire.com
+Password 2: 333222111
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
